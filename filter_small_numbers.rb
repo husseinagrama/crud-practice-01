@@ -5,4 +5,4 @@ numbers.each do |number|
     small_numbers << number
   end
 end
-p small_numbers
+p small_numbersT
